@@ -1,4 +1,8 @@
+<a id="chinese"></a>
+
 ## 你好，欢迎来到我的 GitHub 👋
+
+**中文** · [English](#english)
 
 我专注于**数据挖掘**与**人工智能**，同时长期投入**历史学**与**计量史学**研究——尝试用数据科学的方法，重新审视传统史学中的老问题。
 
@@ -28,3 +32,40 @@
 ### ✉️ 交流
 
 有任何想法或建议，欢迎在对应仓库提 Issue 讨论。
+
+---
+
+<a id="english"></a>
+
+## Hi there, welcome to my GitHub 👋
+
+[中文](#chinese) · **English**
+
+I focus on **data mining** and **artificial intelligence**, with a long-standing dedication to **history** and **cliometrics** — revisiting classic questions in traditional historiography with methods from data science.
+
+> Reading history with AI; seeing the past through data.
+
+---
+
+### 🔭 Current Focus
+
+- **AI × Historical Research**: Leveraging large language models and text mining to structure, automatically extract from, and cross-validate traditional sources such as the *History of Ming*, making reproducible "health checks" of historical texts possible.
+- **Cliometrics**: Turning records of officials, population, disasters, and fiscal affairs into analyzable data, and answering historiographical questions with statistical methods.
+- **Data Mining & Machine Learning**: Building data-processing and analysis pipelines that run from raw text to knowledge and conclusions.
+
+### 🌱 Work in Progress
+
+- **MingAI** — An AI-powered toolkit for the study of Ming history: digitization of historical sources, entity extraction, consistency checking, and visual analytics. (Repository in preparation; coming soon.)
+
+### 📚 Research Interests
+
+- Digital humanities and quantitative analysis of historical data
+- LLM applications in curating classical texts and examining historical sources
+- Text mining, entity recognition, and knowledge graphs
+- Causal inference and statistical methods applied to historical data
+
+---
+
+### ✉️ Contact
+
+Feel free to open an issue in the relevant repository if you have any ideas or suggestions.
